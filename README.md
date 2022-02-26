@@ -40,6 +40,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  </p>
  
 
+</div>
+</div>
 </br>
 </br>
 </br>
