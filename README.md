@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://i.gifer.com/fetch/w300-preview/cd/cd71573f322a6518147319b3af4af401.gif" align="right">
 <li>
 <b>Name:</b> Mery</li>
 <li>
@@ -23,9 +23,10 @@
 
 <p>
  </br>
-
+<p>
+ </br>
 <h2 align="center"> 🦊 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/59/0e/26/590e26fc96fbbcaa30438cf5822ed65b.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -53,7 +54,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <div>
 <p>
  </br>
-
+</a>
+ </p>
 <h2 align="center"> 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 </h2>
 
 <p align="center" >  
