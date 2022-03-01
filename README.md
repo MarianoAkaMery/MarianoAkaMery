@@ -1,6 +1,6 @@
-### Hi there 👋
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://i.gifer.com/fetch/w300-preview/cd/cd71573f322a6518147319b3af4af401.gif" align="right">
+
+<h2 align="center"> 👤 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👤 </h2>
+<img src="https://24.media.tumblr.com/733c37d38334c7054d2c1aaa98522fe0/tumblr_mw2sijQDIO1skmy2bo1_500.gif" align="right">
 <li>
 <b>Name:</b> Mery</li>
 <li>
@@ -25,7 +25,19 @@
  </br>
 <p>
  </br>
-<h2 align="center"> 🦊 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 🦊 </h2>
+ <p>
+ </br>
+<p>
+ </br>
+ <p>
+ </br>
+<p>
+ </br>
+ <p>
+ </br>
+<p>
+ </br>
+<h2 align="center"> 📥 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📥 </h2>
 <img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/59/0e/26/590e26fc96fbbcaa30438cf5822ed65b.gif">
 
 
@@ -56,7 +68,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  </br>
 </a>
  </p>
-<h2 align="center"> 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 </h2>
+<h2 align="center"> 📊 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📊 </h2>
 
 <p align="center" >  
 <img src="https://wakatime.com/badge/user/a3a57f00-88f0-42a3-86c5-1f4e2bcde16d.svg" alt="Total time coded since Feb 24 2022" /></a>
