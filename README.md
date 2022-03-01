@@ -52,7 +52,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </div>
 <div>
 <h2 align="center">  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-<p>
+<p align="center" >  
 <img src="https://wakatime.com/badge/user/a3a57f00-88f0-42a3-86c5-1f4e2bcde16d.svg" alt="Total time coded since Feb 24 2022" /></a>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
