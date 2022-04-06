@@ -4,7 +4,7 @@
 <li>
 <b>Name:</b> Mery</li>
 <li>
-<b>Loves:</b> you! and donuts and games maybe -///-
+<b>Loves:</b> you! and games maybe -///-
 </li>
 <li>
 <b>Gender:</b> Porcodio
@@ -16,8 +16,8 @@
 <b>Working @:</b> SniperAIO
 </li>
 <br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
+<p><b>     Thanks fow reading this onyee-san<br>
+
 </div>
 <div>
 
