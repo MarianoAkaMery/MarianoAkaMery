@@ -7,7 +7,7 @@
 <b>Loves:</b> you! and games maybe -///-
 </li>
 <li>
-<b>Gender:</b> Porcodio
+<b>Gender:</b> Male
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Development, Anime
