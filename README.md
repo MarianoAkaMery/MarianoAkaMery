@@ -13,10 +13,10 @@
 <b>Hobbys:</b> Tech Stuff, Development, Anime
 </li>
 <li>
-<b>Working @:</b> SniperAIO
+<b>Working:</b> @SniperAIO
 </li>
 <br>
-<p><b>     Thanks fow reading this onyee-san<br>
+<p><b>     Thanks for reading this!<br>
 
 </div>
 <div>
@@ -41,7 +41,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/59/0e/26/590e26fc96fbbcaa30438cf5822ed65b.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hang out and talk or want to game together just ping me 😉.
 
 <a href="https://github.com/MarianoAkaMery/MarianoAkaMery/blob/main/Mail">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
