@@ -23,7 +23,7 @@
 <br>
 <br>
 <h2 align="center">📥 ~ Contact me ~ 📥</h2>
-<img height="300" width="400" align="right" alt="GIF" src="https://i.pinimg.com/originals/59/0e/26/590e26fc96fbbcaa30438cf5822ed65b.gif">
+<img height="200" width="300" align="right" alt="GIF" src="https://i.pinimg.com/originals/59/0e/26/590e26fc96fbbcaa30438cf5822ed65b.gif">
 
 <p>If you want to reach out to me about anything, be it some doubt or just to hang out and talk or want to game together, just ping me 😉.</p>
 
