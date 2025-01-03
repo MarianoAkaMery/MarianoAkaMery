@@ -7,100 +7,75 @@
     You may also want to connect with me on LinkedIn @salvatore-mariano-librici-0aaab3202 :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mariano+Aka+Mery;Full+Stack+Developer" alt="Business Analyst"/>
 </a>
 
-<h2 align="center"> 👤 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👤 </h2>
-<img src="https://24.media.tumblr.com/733c37d38334c7054d2c1aaa98522fe0/tumblr_mw2sijQDIO1skmy2bo1_500.gif" align="right">
-<li>
-<b>Name:</b> Mery</li>
-<li>
-<b>Loves:</b> you! and games maybe -///-
-</li>
-<li>
-<b>Gender:</b> Male
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Development, Anime
-</li>
-<li>
-<b>Working:</b> @SniperAIO
-</li>
-<br>
-<p><b>     Thanks for reading this!<br>
+<h2 align="center"> 👤 ~ About Me ~ 👤 </h2>
+<img src="https://24.media.tumblr.com/733c37d38334c7054d2c1aaa98522fe0/tumblr_mw2sijQDIO1skmy2bo1_500.gif" align="right" alt="Animated GIF" width="250px" style="border-radius: 8px; margin-left: 20px;">
 
+<ul>
+  <li><b>Name:</b> Mery</li>
+  <li><b>Passion:</b> Exploring technology, crafting innovative solutions, and connecting through gaming and anime.</li>
+  <li><b>Gender:</b> Male</li>
+  <li><b>Interests:</b> Tech Development, Software Engineering, Anime Enthusiast</li>
+  <li><b>Currently Working:</b> Developer at <a href="https://x.com/sniper_AIO" target="_blank">@SniperAIO</a></li>
+</ul>
+
+<p><b>Thank you for taking the time to read about me! I'm always open to connecting and discussing tech, gaming, and everything in between.</b></p>
+</br>
+<h2 align="center"> 🌐 ~ Connect with Me ~ 🌐 </h2>
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td align="center">
+        <a href="https://x.com/MarianoAkaMery" target="_blank">
+          <img src="https://img.shields.io/badge/X/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/salvatore-mariano-librici/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MarianoAkaMery" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discord.com/channels/@me/752231663173369877" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-<div>
-
-<p>
- </br>
-<p>
- </br>
- <p>
- </br>
-<p>
- </br>
- <p>
- </br>
-<p>
- </br>
- <p>
- </br>
-<p>
- </br>
-  </br>
-<p>
- </br>
- 
-<h2 align="center"> 📥 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📥 </h2>
-<img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/59/0e/26/590e26fc96fbbcaa30438cf5822ed65b.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hang out and talk or want to game together just ping me 😉.
+<h2 align="center"> 📊 ~ Knowledge ~ 📊 </h2>
 
-<a href="https://github.com/MarianoAkaMery/MarianoAkaMery/blob/main/Mail">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-</a>
-<a href="https://steamcommunity.com/profiles/76561198339450438/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
- 
-
-</div>
-</div>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</div>
-<div>
-<p>
- </br>
-</a>
- </p>
-<h2 align="center"> 📊 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📊 </h2>
-
+<!-- Wakatime Badge -->
+<h3 align="center">Total Coding Time</h3>
 <p align="center">  
   <img src="https://wakatime.com/badge/user/a3a57f00-88f0-42a3-86c5-1f4e2bcde16d.svg" alt="Total time coded since Feb 24 2022" />
 </p>
 
+<!-- Wakatime Chart -->
+<h3 align="center">Coding Activity</h3>
 <p align="center">
-  <figure>
-    <embed src="https://wakatime.com/share/@MarianoAkaMery/5c118235-81ff-497a-85f7-93520fdc5cba.svg"></embed>
-  </figure>
+  <a href="https://wakatime.com/share/@MarianoAkaMery/5c118235-81ff-497a-85f7-93520fdc5cba.svg">
+    <img src="https://wakatime.com/share/@MarianoAkaMery/afd0b4b5-b8f0-443b-a496-1b508e2044da.png" alt="Wakatime Chart" />
+  </a>
 </p>
 
+<!-- GitHub Stats -->
+<h3 align="center">GitHub Contributions</h3>
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=MarianoAkaMery&&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarianoAkaMery&&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </p>
 
