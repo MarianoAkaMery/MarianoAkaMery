@@ -1,3 +1,18 @@
+<!--
+    Hey there, I'm Mariano!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @salvatore-mariano-librici-0aaab3202 :))
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mariano+Aka+Mery;Full+Stack+Developer" alt="Business Analyst"/>
+</a>
+
 <h2 align="center"> 👤 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👤 </h2>
 <img src="https://24.media.tumblr.com/733c37d38334c7054d2c1aaa98522fe0/tumblr_mw2sijQDIO1skmy2bo1_500.gif" align="right">
 <li>
