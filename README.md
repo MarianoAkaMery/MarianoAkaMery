@@ -10,7 +10,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mariano+Aka+Mery;Full+Stack+Developer" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mariano+AkaMery;Full+Stack+Developer" alt="Business Analyst"/>
 </a>
 
 <h2 align="center"> 👤 ~ About Me ~ 👤 </h2>
@@ -18,17 +18,20 @@
 
 <ul>
   <li><b>Name:</b> Mery</li>
-  <li><b>Passion:</b> Exploring technology, crafting innovative solutions, and connecting through gaming and anime.</li>
-  <li><b>Gender:</b> Male</li>
-  <li><b>Interests:</b> Tech Development, Software Engineering, Anime Enthusiast</li>
-  <li><b>Currently Working:</b> Owner / Developer at <a href="https://x.com/sniper_AIO" target="_blank">@SniperAIO</a></li>
+  <li><b>Education:</b> Pursuing a degree in High-Performance Computing (HPC) at Politecnico di Milano.</li>
+  <li><b>Passion:</b> I am deeply passionate about technology, specializing in Web3 development, particularly within the Solana ecosystem. I thrive on crafting innovative solutions and exploring the intersection of cutting-edge tech and real-world applications.</li>
+  <li><b>Interests:</b> Tech Development, Software Engineering, Web3, Cars, and Anime.</li>
+  <li><b>Currently Working:</b> Owner and Developer at <a href="https://x.com/sniper_AIO" target="_blank">@SniperAIO</a>, focusing on building tools and platforms that empower users in the Web3 space.</li>
 </ul>
+</br>
+</br>
 
-<p><b>Thank you for taking the time to read about me! I'm always open to connecting and discussing tech, gaming, and everything in between.</b></p>
+<p><b>Thank you for taking the time to learn about me! I’m always eager to connect and collaborate on exciting projects, whether they involve innovative tech, Web3 solutions, or simply sharing ideas about cars and culture.</b></p>
+
 </br>
 <h2 align="center"> 🌐 ~ Connect with Me ~ 🌐 </h2>
-<div style="text-align: center;">
-  <table style="margin: 0 auto;">
+<div align="center">
+  <table>
     <tr>
       <td align="center">
         <a href="https://x.com/MarianoAkaMery" target="_blank">
@@ -53,6 +56,12 @@
     </tr>
   </table>
 </div>
+
+
+
+
+
+</br>
 
 
 <h2 align="center"> 📊 ~ Knowledge ~ 📊 </h2>
