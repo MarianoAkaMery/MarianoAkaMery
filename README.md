@@ -18,7 +18,7 @@
 
 <ul>
   <li><b>Name:</b> Mery</li>
-  <li><b>Education:</b> Pursuing a degree in High-Performance Computing (HPC) at Politecnico di Milano.</li>
+  <li><b>Education:</b> Pursuing a master in High-Performance Computing (HPC) at Politecnico di Milano.</li>
   <li><b>Passion:</b> I am deeply passionate about technology, specializing in Web3 development, particularly within the Solana ecosystem. I thrive on crafting innovative solutions and exploring the intersection of cutting-edge tech and real-world applications.</li>
   <li><b>Interests:</b> Tech Development, Software Engineering, Web3, Cars, and Anime.</li>
   <li><b>Currently Working:</b> Owner and Developer at <a href="https://x.com/sniper_AIO" target="_blank">@SniperAIO</a>, focusing on building tools and platforms that empower users in the Web3 space.</li>
@@ -29,7 +29,7 @@
 <p><b>Thank you for taking the time to learn about me! I’m always eager to connect and collaborate on exciting projects, whether they involve innovative tech, Web3 solutions, or simply sharing ideas about cars and culture.</b></p>
 
 </br>
-<h2 align="center"> 🌐 ~ Connect with Me ~ 🌐 </h2>
+<h2 align="center"> 🌐 ~ Connect to Me ~ 🌐 </h2>
 <div align="center">
   <table>
     <tr>
