@@ -21,7 +21,7 @@
   <li><b>Passion:</b> Exploring technology, crafting innovative solutions, and connecting through gaming and anime.</li>
   <li><b>Gender:</b> Male</li>
   <li><b>Interests:</b> Tech Development, Software Engineering, Anime Enthusiast</li>
-  <li><b>Currently Working:</b> Developer at <a href="https://x.com/sniper_AIO" target="_blank">@SniperAIO</a></li>
+  <li><b>Currently Working:</b> Owner / Developer at <a href="https://x.com/sniper_AIO" target="_blank">@SniperAIO</a></li>
 </ul>
 
 <p><b>Thank you for taking the time to read about me! I'm always open to connecting and discussing tech, gaming, and everything in between.</b></p>
